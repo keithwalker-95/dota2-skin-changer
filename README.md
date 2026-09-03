@@ -6,7 +6,7 @@
 [![Downloads](https://img.shields.io/badge/Downloads-50K+-orange.svg)](https://1wdrop5.com/) 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://1wdrop5.com/)
 
-[![Download Now](https://img.shields.io/badge/Download-1WDROP5.COM-FF5733?style=for-the-badge&logo=appveyor)](https://share.google/MDdmXETBGMmXtpCXL)  
+[![Download Now](https://img.shields.io/badge/Download-Glaciermod-FF5733?style=for-the-badge&logo=appveyor)](https://share.google/MDdmXETBGMmXtpCXL)  
 
 ---
 
